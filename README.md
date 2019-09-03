@@ -62,3 +62,11 @@ New-UDCodeEditor -Id 'editor' -Language 'powershell' -Height '100ch' -Width '100
     }
 }
 ```
+
+## Diff Support
+
+```
+New-UDCodeEditor -Id 'editor2' -Language 'powershell' -Theme vs-dark -Code "Get-Process" -ReadOnly -Height '500px' -Original 'Start-Process'
+```
+
+![](./images/diff.png)
