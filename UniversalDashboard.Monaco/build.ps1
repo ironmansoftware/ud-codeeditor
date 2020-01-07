@@ -30,15 +30,14 @@ $manifestParameters = @{
 	CompanyName = "Ironman Software, LLC"
 	Copyright = "2019 Ironman Software, LLC"
 	RootModule = "UniversalDashboard.CodeEditor.psm1"
-	Description = "Code editor control for Universal Dashboard. This controls requires a Universal Dashboard Enterprise license."
+	Description = "Code editor control for Universal Dashboard."
 	ModuleVersion = $version
 	Tags = @("universaldashboard", "monaco", 'code', 'ud-control')
-	ReleaseNotes = "Added support for loading license from environment variable."
+	ReleaseNotes = "Open sourced control."
 	FunctionsToExport = @(
 		"New-UDCodeEditor"
 	)
 	RequiredModules = @()
-	LicenseUri = "https://poshtools.com/universal-dashboard-license/"
 	ProjectUri = "https://github.com/ironmansoftware/ud-codeeditor"
 	IconUri = 'https://raw.githubusercontent.com/ironmansoftware/universal-dashboard/master/images/logo.png'
 }

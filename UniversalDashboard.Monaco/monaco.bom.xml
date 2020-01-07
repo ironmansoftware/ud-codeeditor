@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bom xmlns="http://cyclonedx.org/schema/bom/1.1" version="1" serialNumber="urn:uuid:6a42cb2b-1f47-4d4a-8e6f-f7d759a5cdd5">
+<bom xmlns="http://cyclonedx.org/schema/bom/1.1" version="1" serialNumber="urn:uuid:75ef5c8f-641f-43fa-9098-38b192c72945">
     <components>
         <component type="library">
             <name>monaco-editor</name>
