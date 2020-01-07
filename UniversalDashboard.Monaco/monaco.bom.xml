@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.1" version="1" serialNumber="urn:uuid:6a42cb2b-1f47-4d4a-8e6f-f7d759a5cdd5">
+    <components>
+        <component type="library">
+            <name>monaco-editor</name>
+            <version>0.17.1</version>
+            <description>
+                <![CDATA[A browser based code editor]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">2407349ad5bb35e3bed12c0f45c7647c36d62e092a2fd59f3f535ba4ff703404ac5baa16aa066a3485ade2d7b29868d92174c4971ddd9d0994607995ac9ec7c4</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2016 - present Microsoft Corporation
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/monaco-editor@0.17.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/Microsoft/monaco-editor#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/Microsoft/monaco-editor/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/Microsoft/monaco-editor.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>react-monaco-editor</name>
+            <version>0.30.1</version>
+            <description>
+                <![CDATA[Monaco Editor for React]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">deefe8982d191884a27af7454df86147c2f7891c42ad3877f5a883e6079df36346168e027c4c515a88ff4010e9fe35d2fd484d6aead4b2b9d1d6bf92126ae3bb</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text content-type="text/markdown">
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2016-present Leon Shi
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/react-monaco-editor@0.30.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/react-monaco-editor/react-monaco-editor</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/react-monaco-editor/react-monaco-editor/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/react-monaco-editor/react-monaco-editor.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <group>types</group>
+            <name>react</name>
+            <version>16.9.2</version>
+            <description>
+                <![CDATA[TypeScript definitions for React]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">8d83f62d6c2587e153a8677dbfbca750a6738e3f7c4fcc7b61c973e3bf507518477ee5bdc90fb48e39c3df5797497bad981a69a63e4f60d2d82d17e7649bdc7e</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        MIT License
+                        
+                        Copyright (c) Microsoft Corporation. All rights reserved.
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/%40types/react@16.9.2</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/DefinitelyTyped/DefinitelyTyped#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/DefinitelyTyped/DefinitelyTyped/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/DefinitelyTyped/DefinitelyTyped.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <group>types</group>
+            <name>prop-types</name>
+            <version>15.7.1</version>
+            <description>
+                <![CDATA[TypeScript definitions for prop-types]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">085ce7f6274e1291eb81dc3c26ca1391a0c3c915a4d63af3215f1d8f3720a6ad32f6d1b80789454fe371879d835690d757e9f8f8d3cdbfb3350e3e6e329e9716</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        MIT License
+                        
+                        Copyright (c) Microsoft Corporation. All rights reserved.
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/%40types/prop-types@15.7.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/DefinitelyTyped/DefinitelyTyped#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/DefinitelyTyped/DefinitelyTyped/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/DefinitelyTyped/DefinitelyTyped.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>csstype</name>
+            <version>2.6.6</version>
+            <description>
+                <![CDATA[Strict TypeScript and Flow types for style based on MDN data]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">46915b406504ef88b23e0bebe3a53db75c6840133c4f804bf12c6b37ae8b7b6c5800f49a0c924a7b3b55ddac2e82eb1bde0dc6f622fc4ad9a40415e171b6d786</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        Copyright (c) 2017-2018 Fredrik Nicol
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/csstype@2.6.6</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/frenic/csstype#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/frenic/csstype/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/frenic/csstype.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>prop-types</name>
+            <version>15.7.2</version>
+            <description>
+                <![CDATA[Runtime type checking for React props and similar objects.]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">f1042291d1fbfff476beeac8252bad675b261d84dc2e945610e9479f37161e6058ace194cac2b04acac2f3d0428858f709badf27f9d715d25ea4e56b6351821d</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        MIT License
+                        
+                        Copyright (c) 2013-present, Facebook, Inc.
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/prop-types@15.7.2</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://facebook.github.io/react/</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/facebook/prop-types/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/facebook/prop-types.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>loose-envify</name>
+            <version>1.4.0</version>
+            <description>
+                <![CDATA[Fast (and loose) selective `process.env` replacer using js-tokens instead of an AST]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">972bb13c6aff59f86b95e9b608bfd472751cd7372a280226043cee918ed8e45ff242235d928ebe7d12debe5c351e03324b0edfeb5d54218e34f04b71452a0add</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2015 Andres Suarez <zertosh@gmail.com>
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in
+                        all copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+                        THE SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/loose-envify@1.4.0</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/zertosh/loose-envify</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/zertosh/loose-envify/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git://github.com/zertosh/loose-envify.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>js-tokens</name>
+            <version>4.0.0</version>
+            <description>
+                <![CDATA[A regex that tokenizes JavaScript.]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">45d2547e5704ddc5332a232a420b02bb4e853eef5474824ed1b7986cf84737893a6a9809b627dca02b53f5b7313a9601b690f690233a49bce0e026aeb16fcf29</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in
+                        all copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+                        THE SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/js-tokens@4.0.0</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/lydell/js-tokens#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/lydell/js-tokens/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/lydell/js-tokens.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>object-assign</name>
+            <version>4.1.1</version>
+            <description>
+                <![CDATA[ES2015 `Object.assign()` ponyfill]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-1">2109adc7965887cfc05cbbd442cac8bfbb360863</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (sindresorhus.com)
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in
+                        all copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+                        THE SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/object-assign@4.1.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/sindresorhus/object-assign#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/sindresorhus/object-assign/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/sindresorhus/object-assign.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>react-is</name>
+            <version>16.8.6</version>
+            <description>
+                <![CDATA[Brand checking of React Elements.]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">6949376c77d9d9b45254515b6de552e22fa534f66bdff58ce634f6279a26515575cf372cd6701a7f7979d5cb40e4516f0916e1ac7d1b740b1145075d14964fb4</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        MIT License
+                        
+                        Copyright (c) Facebook, Inc. and its affiliates.
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/react-is@16.8.6</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://reactjs.org/</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/facebook/react/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/facebook/react.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>react-resize-detector</name>
+            <version>4.2.0</version>
+            <description>
+                <![CDATA[React resize detector]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">02d39a348c6cd3276e6bbb44a20957477f74dbf11d9488fd3d70eed598f4ba0d950149e44908e0b8b1b3686fcde825cb3a125271c4ec5026718cb6b2435984f5</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2016 Denis Rul
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/react-resize-detector@4.2.0</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/maslianok/react-resize-detector</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/maslianok/react-resize-detector/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/maslianok/react-resize-detector.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>lodash</name>
+            <version>4.17.11</version>
+            <description>
+                <![CDATA[Lodash modular utilities.]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">7102a1f22828e5052167b960dfc0d8580c4cbe3480286d00f3019256298fd3b4885042b650ef9aad244a6d1656b5e94cb4de55d07930879af23ada3f4ac85822</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        Copyright JS Foundation and other contributors <https://js.foundation/>
+                        
+                        Based on Underscore.js, copyright Jeremy Ashkenas,
+                        DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+                        
+                        This software consists of voluntary contributions made by many
+                        individuals. For exact contribution history, see the revision history
+                        available at https://github.com/lodash/lodash
+                        
+                        The following license applies to all parts of this software except as
+                        documented below:
+                        
+                        ====
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining
+                        a copy of this software and associated documentation files (the
+                        "Software"), to deal in the Software without restriction, including
+                        without limitation the rights to use, copy, modify, merge, publish,
+                        distribute, sublicense, and/or sell copies of the Software, and to
+                        permit persons to whom the Software is furnished to do so, subject to
+                        the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be
+                        included in all copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+                        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+                        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+                        NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+                        LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+                        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+                        WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                        
+                        ====
+                        
+                        Copyright and related rights for sample code are waived via CC0. Sample
+                        code is defined as all source code displayed within the prose of the
+                        documentation.
+                        
+                        CC0: http://creativecommons.org/publicdomain/zero/1.0/
+                        
+                        ====
+                        
+                        Files located in the node_modules and vendor directories are externally
+                        maintained libraries used by this software which have their own
+                        licenses; we recommend you read them, as their terms may differ from the
+                        terms above.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/lodash@4.17.11</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://lodash.com/</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/lodash/lodash/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/lodash/lodash.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>lodash-es</name>
+            <version>4.17.15</version>
+            <description>
+                <![CDATA[Lodash exported as ES modules.]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">ae5adcdf2537f8934ea59f738f9a50b719f1d931e6bd1ca4c0be17971a1af08f651c19556dbc8f860c8f322a31559e0dab2c5a555b5a267cecc8e89d408872c9</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+                        
+                        Based on Underscore.js, copyright Jeremy Ashkenas,
+                        DocumentCloud and Investigative Reporters & Editors <http://underscorejs.org/>
+                        
+                        This software consists of voluntary contributions made by many
+                        individuals. For exact contribution history, see the revision history
+                        available at https://github.com/lodash/lodash
+                        
+                        The following license applies to all parts of this software except as
+                        documented below:
+                        
+                        ====
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining
+                        a copy of this software and associated documentation files (the
+                        "Software"), to deal in the Software without restriction, including
+                        without limitation the rights to use, copy, modify, merge, publish,
+                        distribute, sublicense, and/or sell copies of the Software, and to
+                        permit persons to whom the Software is furnished to do so, subject to
+                        the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be
+                        included in all copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+                        EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+                        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+                        NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+                        LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+                        OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+                        WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                        
+                        ====
+                        
+                        Copyright and related rights for sample code are waived via CC0. Sample
+                        code is defined as all source code displayed within the prose of the
+                        documentation.
+                        
+                        CC0: http://creativecommons.org/publicdomain/zero/1.0/
+                        
+                        ====
+                        
+                        Files located in the node_modules and vendor directories are externally
+                        maintained libraries used by this software which have their own
+                        licenses; we recommend you read them, as their terms may differ from the
+                        terms above.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/lodash-es@4.17.15</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://lodash.com/custom-builds</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/lodash/lodash-cli/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/lodash/lodash.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>raf-schd</name>
+            <version>4.0.2</version>
+            <description>
+                <![CDATA[A scheduler based on requestAnimationFrame]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">56194c6661b2e80ea1ae42561cb3531a5e60b603149bec5f1b36bac1bc2713dd78c9e43961b9b5f2f80cef7e116613207f0e2d69c52b5ac786665a54aeb6a411</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                </license>
+            </licenses>
+            <purl>pkg:npm/raf-schd@4.0.2</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/alexreardon/raf-schd#readme</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/alexreardon/raf-schd/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/alexreardon/raf-schd.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+        <component type="library">
+            <name>resize-observer-polyfill</name>
+            <version>1.5.1</version>
+            <description>
+                <![CDATA[A polyfill for the Resize Observer API]]>
+            </description>
+            <hashes>
+                <hash alg="SHA-512">2f066ba2d7473a8d769d0b99947126b6e5dda86a0e0f43a16b1a2968d1715b3227a4481a2d6a15b8031b4f38b1ba8b02c769c41b9f278335b7bf1756a3122076</hash>
+            </hashes>
+            <licenses>
+                <license>
+                    <id>MIT</id>
+                    <text>
+                        <![CDATA[
+                        The MIT License (MIT)
+                        
+                        Copyright (c) 2016 Denis Rul
+                        
+                        Permission is hereby granted, free of charge, to any person obtaining a copy
+                        of this software and associated documentation files (the "Software"), to deal
+                        in the Software without restriction, including without limitation the rights
+                        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+                        copies of the Software, and to permit persons to whom the Software is
+                        furnished to do so, subject to the following conditions:
+                        
+                        The above copyright notice and this permission notice shall be included in all
+                        copies or substantial portions of the Software.
+                        
+                        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+                        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+                        FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+                        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+                        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+                        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+                        SOFTWARE.
+                        ]]>
+                    </text>
+                </license>
+            </licenses>
+            <purl>pkg:npm/resize-observer-polyfill@1.5.1</purl>
+            <externalReferences>
+                <reference type="website">
+                    <url>https://github.com/que-etc/resize-observer-polyfill</url>
+                </reference>
+                <reference type="issue-tracker">
+                    <url>https://github.com/que-etc/resize-observer-polyfill/issues</url>
+                </reference>
+                <reference type="vcs">
+                    <url>git+https://github.com/que-etc/resize-observer-polyfill.git</url>
+                </reference>
+            </externalReferences>
+        </component>
+    </components>
+</bom>

@@ -10,14 +10,6 @@ Code editor control for [Universal Dashboard](https://github.com/ironmansoftware
 Install-Module UniversalDashboard.CodeEditor
 ```
 
-# Licensing
-
-This component requires a [Universal Dashboard Enterprise license](https://ironmansoftware.com/powershell-universal-dashboard/). 
-
-# Issues 
-
-Please file issues on the [Universal Dashboard GitHub repository](https://github.com/ironmansoftware/universal-dashboard).
-
 # Examples 
 
 ## Creating an editor
